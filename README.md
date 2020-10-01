@@ -1,3 +1,4 @@
+logr-An amazing project
 <img src="doc/_static/nbsite-logo.png" height=150><br>
 
 -----------------
